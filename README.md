@@ -1,22 +1,6 @@
 # J2TeaM Community
 
-Những điều mà bạn cần biết nếu muốn tham gia [J2TeaM Community](https://www.facebook.com/groups/j2team.community/)
-
-## Liên kết
-
-- [Nội quy nhóm](rules.md)
-- [Nội quy chuyên mục #23h](23h.md)
-- [Hệ thống xếp hạng thành viên](rank.md)
-- [Nhóm chat trên Slack](https://j2team-community.slack.com/messages)
-- [Tra cứu thứ hạng - Xem bài đang hot trong tuần](http://code.junookyo.xyz/apps/j2team-community-ranking/index.php)
-
-## Công cụ
-
-Các công cụ liệt kê dưới đây được đóng góp bởi cộng đồng:
-
-- [Tìm kiếm bài viết siêu tốc](http://www.j2teamdata.tk/) bởi [Long Đỗ](https://www.facebook.com/groups/j2team.community/permalink/418245055174287/)
-- [Index bài viết trong nhóm](http://phimchua.com/fb/) bởi [Vinh Chương](https://www.facebook.com/groups/j2team.community/permalink/420339644964828/)
-- [Index bài viết trong nhóm](http://raynext.com/j2team/) bởi [Nguyễn Hoàng Phúc](https://www.facebook.com/groups/j2team.community/permalink/432527217079404/)
-- [Index, tìm kiếm bài viết trong nhóm](http://j2team.anlink.top/) bởi [Nguyen Huu Dat](https://www.facebook.com/groups/j2team.community/permalink/437008396631286/)
-- [Mã hóa, bảo vệ liên kết](http://anlink.top/) bởi [Nguyen Huu Dat](https://www.facebook.com/groups/j2team.community/permalink/423097854689007/)
-- [Mã hóa, bảo vệ liên kết](http://code.junookyo.xyz/j2team-community/) bởi [Juno_okyo](https://junookyo.blogspot.com/?utm_source=github)
+|Những điều mà bạn cần biết khi tham gia <br/>[J2TeaM Community](https://www.facebook.com/groups/j2team.community/)|All you need to know joining <br/>[J2TeaM Community](https://www.facebook.com/groups/j2team.community/)|
+|:----------|:-------|
+|<h2>Liên kết</h2><ul><li>[Nội quy nhóm](vi/rules.md)</li><li>[Nội quy chuyên mục #23h](23h.md)</li><li>[Hệ thống xếp hạng thành viên](rank.md)</li><li>[Nhóm chat trên Slack](https://j2team-community.slack.com/messages)</li><li>[Tra cứu thứ hạng - Xem bài đang hot trong tuần](http://code.junookyo.xyz/apps/j2team-community-ranking/index.php)</li></ul>|<h2>Links</h2><ul><li>[Group rules](en/rules.md)</li><li>[#23o'clock show rules](en/23h.md)</li><li>[Ranking rules](en/rank.md)</li><li>[Slack chatting group](https://j2team-community.slack.com/messages)</li><li>[Ranking lookup - Weekly hot topics](http://code.junookyo.xyz/apps/j2team-community-ranking/index.php)</li></ul>|
+|<h2>Công cụ</h2>Các công cụ dưới đây được đóng góp bởi cộng đồng:<ul><li>[Tìm kiếm bài viết siêu tốc](http://www.j2teamdata.tk/) bởi [Long Đỗ](https://www.facebook.com/groups/j2team.community/permalink/418245055174287/)</li><li>[Index bài viết trong nhóm](http://phimchua.com/fb/) bởi [Vinh Chương](https://www.facebook.com/groups/j2team.community/permalink/420339644964828/)</li><li>[Index bài viết trong nhóm](http://raynext.com/j2team/) bởi [Nguyễn Hoàng Phúc](https://www.facebook.com/groups/j2team.community/permalink/432527217079404/)</li><li>[Index, tìm kiếm bài viết trong nhóm](http://j2team.anlink.top/) bởi [N. Huu Dat](https://www.facebook.com/groups/j2team.community/permalink/437008396631286/)</li><li>[Mã hóa, bảo vệ liên kết](http://anlink.top/) bởi [N. Huu Dat](https://www.facebook.com/groups/j2team.community/permalink/423097854689007/)<li>[Mã hóa, bảo vệ liên kết](http://code.junookyo.xyz/j2team-community/) bởi [Juno_okyo](https://junookyo.blogspot.com/?utm_source=github)</li></ul>|<h2>Tools</h2>These tools are contributed by the community:<ul><li>[Article lookup](http://www.j2teamdata.tk/) by [Long Do](https://www.facebook.com/groups/j2team.community/permalink/418245055174287/)</li><li>[Group articles indexing](http://phimchua.com/fb/) by [Vinh Chuong](https://www.facebook.com/groups/j2team.community/permalink/420339644964828/)</li><li>[Group articles indexing](http://raynext.com/j2team/) by [Nguyen Hoang Phuc](https://www.facebook.com/groups/j2team.community/permalink/432527217079404/)</li><li>[Group articles indexing/searching](http://j2team.anlink.top/) by [N. Huu Dat](https://www.facebook.com/groups/j2team.community/permalink/437008396631286/)</li><li>[Link encryption/protection](http://anlink.top/) by [N. Huu Dat](https://www.facebook.com/groups/j2team.community/permalink/423097854689007/)</li><li>[Link encryption/protection](http://code.junookyo.xyz/j2team-community/) by [Juno_okyo](https://junookyo.blogspot.com/?utm_source=github)</li></ul>|
