@@ -6,7 +6,7 @@ Here you can find all you need to know about this system.
 
 ## The reason we created J2TeaM Community Ranking
 
-The J2TeaM Community group is created on October 6th, 2016 by Juno_okyo. **1000** members joined the first day. Till the last of December, after 2 months of operating, we had more than **4000 members**. Also it's not a bad amount of at all, the group activities are quite low, only some few boring new articles each day.
+The J2TeaM Community group is created on October 6th, 2016 by Juno_okyo. **1000** members joined the first day. Till the last of December, after 2 months of operation, we had more than **4000 members**. Also it's not a bad amount of at all, the group activities are quite low, only some few boring new articles each day.
 
 It does not looks like a group with some "few thousands of members" at all, Juno [decided](https://www.facebook.com/groups/j2team.community/permalink/409501726048620/) to write a tool that statistic the activity of all members in the group. It helps admins to [kick away](https://www.facebook.com/groups/j2team.community/permalink/409514332714026/) every members who joins the group and do NOTHING with ease. 
 
@@ -77,4 +77,5 @@ So instead of questioning "why do my points subtracted?", ask "why do people get
 ### Why is the number of ranked members larger than the current group members?
 
 Read the answer [here](https://www.facebook.com/groups/j2team.community/permalink/418817018450424/?comment_id=418821155116677&comment_tracking=%7B%22tn%22%3A%22R2%22%7D).
+
 (Thought you might need [Google translate](https://translate.google.com/))
